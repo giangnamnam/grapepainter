@@ -1,0 +1,1 @@
+The Grape Painter is a simple painting software that is like the Widows Paint in it's functionality and form.
